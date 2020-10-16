@@ -1,4 +1,4 @@
-# new-app
+# calorie-app-admin
 
 ## Project setup
 ```
